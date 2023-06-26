@@ -37,10 +37,12 @@
      }
   } 
 ```
+
 ***************
+
 ## Education
   **Kharkin National Automobile and Highway University**
-  
+
 ***************
 ## Languages
   * **Ukranian (Native)**
