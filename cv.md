@@ -6,7 +6,7 @@
 
 * **Phone:** +380970075106
 
-* **E-mail:** voronyi.artem@gmal.com
+* **E-mail:** voronyi.artem@gmail.com
 
 * **GitHub:** [voronyi-artem](https://github.com/voronyi-artem)
 
@@ -41,7 +41,7 @@
 ***************
 
 ## Education
-  **Kharkin National Automobile and Highway University**
+  **Kharkiv National Automobile and Highway University**
 
 ***************
 ## Languages
