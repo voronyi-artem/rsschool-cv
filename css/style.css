@@ -1,0 +1,82 @@
+body{
+  box-sizing: border-box;
+  background-color: #f3f3f3;
+}
+.container{
+  margin: auto;
+  width: 960px;
+  font-family: 'Poppins',sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  background-color: #ffffff;
+  box-shadow: 10px 10px 40px -1px #589797
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+main {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.header-left ,.main-left {
+  text-align: center;
+  min-width: 320px;
+}
+.header-right , .main-right{
+  text-align: center;
+  margin: 40px 40px 40px 0px;
+  min-width: 640px;
+}
+.avatar{
+  text-align: center;
+  width: 220px;
+  height: 220px;
+  border-style: solid;
+  border-color: #589797;
+  border-radius: 50%;
+  margin: 40px 40px 40px 50px;
+  box-shadow: 10px 10px 20px -1px #589797 ;
+}
+.name{
+  margin: 40px 40px 0px 40px;
+  color: #589797;
+  font-weight: 600;
+}
+.post , h4{
+  color: #589797;
+  margin: 0px 40px 10px 40px;
+  font-weight: 400;
+}
+.about{
+  text-align: left;
+  color: #589797;
+  margin: 0px 40px 10px 65px;
+  font-weight: 600;
+}
+.about-text{
+  text-align: left;
+  color: #589797;
+  margin: 0px 40px 10px 65px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.contact{
+  display: block;
+  list-style-image: url();
+  text-align: center;
+  color: #589797;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+.contact-item{
+  display: block;
+  list-style-image: url();
+  text-align: left;
+  color: #589797;
+  margin-top: 10px;
+  margin-left: 50px;
+}
