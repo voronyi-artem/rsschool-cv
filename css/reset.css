@@ -1,18 +1,15 @@
 html {
   box-sizing: border-box;
 }
-
 *,
 *::after,
 *::before {
   box-sizing: inherit;
 }
-
 ul[class],
 ol[class] {
   padding: 0;
 }
-
 body,
 h1,
 h2,
@@ -32,16 +29,13 @@ dl,
 dd {
   margin: 0;
 }
-
 ul[class] {
   list-style: none;
 }
-
 img {
   max-width: 100%;
   display: block;
 }
-
 input,
 button,
 textarea,
