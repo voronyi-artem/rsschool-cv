@@ -11,11 +11,7 @@ body{
   background-color: #ffffff;
   box-shadow: 10px 10px 40px -1px #589797
 }
-header{
-  display: flex;
-  justify-content: space-between;
-  text-align: center;
-}
+header ,
 main {
   display: flex;
   justify-content: space-between;
@@ -27,7 +23,7 @@ main {
 }
 .header-right , .main-right{
   text-align: center;
-  margin: 40px 40px 40px 0px;
+  margin: 40px 40px 0px 0px;
   min-width: 610px;
 }
 .avatar{
@@ -63,7 +59,6 @@ main {
 }
 .contact{
   display: block;
-  list-style-image: url();
   text-align: center;
   color: #589797;
   margin-top: 40px;
@@ -82,7 +77,6 @@ main {
 }
 .skills {
   display: block;
-  list-style-image: url();
   text-align: center;
   color: #589797;
   margin-top: 40px;
@@ -101,7 +95,6 @@ main {
 }
 .education {
   display: block;
-  list-style-image: url();
   text-align: center;
   color: #589797;
   margin-bottom: 20px;
@@ -121,7 +114,6 @@ main {
 }
 .languages {
   display: block;
-  list-style-image: url();
   text-align: center;
   color: #589797;
   margin-bottom: 20px;
@@ -142,15 +134,36 @@ main {
 }
 .code {
   display: block;
-  list-style-image: url();
   text-align: center;
   color: #589797;
-  margin: 30px;
+  margin: 30px 30px 10px 30px;
   font-weight: 600;
 }
+.code-text{
+  text-align: left;
+  margin-left: 75px;
+}
 footer{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
   width: 960px;
   height: 80px;
   background-color: #589797;
-  margin-top: 40px;
+  margin-top: 10px;
+}
+.logo-rss{
+  display: block;
+  align-items: center;
+  margin-left: 40px;
+}
+.year{
+  font-weight: 400;
+  font-size: 16px;
+  color: #fff;
+  margin-top: 30px;
+  margin-right: 40px;
+}
+.logo-git{
+  margin: 20px 40px 20px 40px;
 }
